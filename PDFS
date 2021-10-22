@@ -1,4 +1,17 @@
 <!DOCTYPE html>
   <html>
-
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+    <head>
+      <title>Differential Equations</title>
+    </head>
+  <body>
+    <h1 style="text-align:center;">Differential Equations Pdfs</h1>
+    <br>
+    <br>
+    <h3 style="text-align:center;">See below</h3>
+    <br>
+    <br>
+    <br>
+    Algebraic and Calculus Premliminaries, and Section 1.1/1.2
+      <embed src="https://amanda137.github.io/Differential_Equations_Tutoring_Assignments.pdf" type="application/pdf" />
+  </body>
+  </html>
